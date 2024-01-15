@@ -10,7 +10,7 @@ function pressColor(evt){
     alert('Blue');
 }
 
-function presPlace(evt){
+function pressPlace(evt){
     evt.preventDefault();
     
     alert('Vietnam');
@@ -24,6 +24,6 @@ function pressRitual(evt){
 
 color.addEventListener('click', pressColor);
 
-place.addEventListener('click', presPlace);
+place.addEventListener('click', pressPlace);
 
 ritual.addEventListener('click', pressRitual);
