@@ -44,6 +44,16 @@ div {
 
 h1 {
 	color: cornflowerblue;
+	font-family: "Courier New", monospace;
+	
+}
+
+h2 {
+	font-family: "Courier New", monospace;
+}
+
+h3 {
+	font-family: "Courier New", monospace;
 }
 
 .buttonGroup {
@@ -51,3 +61,8 @@ h1 {
 	width: 150px;
   	height: 75px;
 }
+
+ul {
+	background: #436b93;
+	padding: 20px;
+  }
